@@ -4,3 +4,6 @@ Agile Quiz:
 
 Git Certificate:
 <img width="1999" height="1414" alt="image" src="https://github.com/user-attachments/assets/1b91ac90-4c47-412e-b4e5-ca4ba0040c2f" />
+
+Introduction to C language:
+<img width="2000" height="1413" alt="image" src="https://github.com/user-attachments/assets/60bd1739-dea9-4326-b8ac-6de5d4a434df" />
